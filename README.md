@@ -83,5 +83,7 @@ SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
 ## 📁 Repository Structure
 -Titanic_EDA.ipynb    → Main Jupyter Notebook with full EDA
+
 -train.csv            → Titanic dataset
+
 -README.md            → Project documentation
